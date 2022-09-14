@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkarshmore14" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshmore14?logo=twitter&style=for-the-badge" alt="utkarshmore14" /></a> </p>
 
-- 🌱 I’m currently learning **Everything xd**
+- 🌱 I’m currently learning **Everything 😆**
 
 - 👯 I’m looking to collaborate on **Flutter projects and React projects**
 

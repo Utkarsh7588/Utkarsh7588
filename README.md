@@ -1,3 +1,5 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="100"/>
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">Flutter developer</h3>
 

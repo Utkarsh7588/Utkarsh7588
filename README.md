@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/6M8G.gif" width="200"/>
+  <img src="https://i.gifer.com/6M8G.gif" width="100"/>
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">Flutter developer</h3>
 

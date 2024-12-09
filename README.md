@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Completed my BE in Computer Engineering at D Y Patil College of Engineering.<br>🚀 Currently, a Software Developer (full stack) at Soocel, where I contribute to both front-end and back-end development.<br>💡 Interested in mobile app development, web development, and exploring new technologies.<br>
+🎓 Completed my BE in Computer Engineering at D Y Patil College of Engineering.<br>🚀 Currently, a Software Developer (full stack) at Soocel, where I contribute to both front-end and back-end development and hosting.<br>💡 Interested in mobile app development, web development, and exploring new technologies.<br>
 
 
 ## 🌐 Socials:
